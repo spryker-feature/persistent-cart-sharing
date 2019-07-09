@@ -7,14 +7,14 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/persistent-cart": "^201906.0",
+    "spryker-feature/persistent-cart": "^201907.0",
     "spryker-shop/persistent-cart-share-page": "^1.0.0",
     "spryker-shop/persistent-cart-share-widget": "^1.0.0",
     "spryker/persistent-cart-share": "^1.0.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "201906.x-dev"
+      "dev-master": "201907.x-dev"
     }
   }
 }
