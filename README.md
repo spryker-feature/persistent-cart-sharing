@@ -7,3 +7,11 @@ With the Persistent Cart Sharing feature, you can quickly and easily share cart 
 ```
 composer require spryker-feature/persistent-cart-sharing
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/persistent-cart](https://github.com/spryker-feature/persistent-cart)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [PersistentCartShareExtension ^1.0.0](https://github.com/spryker/persistent-cart-share-extension) (Extension)
