@@ -15,8 +15,5 @@
     "branch-alias": {
       "dev-master": "202009.x-dev"
     }
-  },
-  "suggest": {
-    "spryker-feature/persistent-cart": "Recommended feature dependency."
   }
 }
